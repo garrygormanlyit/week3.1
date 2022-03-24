@@ -1,0 +1,11 @@
+,X,Date,Country,Gender,Age,Q1,Q2,Q3,Q4,Q5,AgeCat
+1,5,01/05/2018,IRL,F,NA,2,2,1,2,1,Elder
+2,4,28/10/2018,IRL,M,39,3,3,4,NA,NA,Middle Aged
+3,2,11/01/2018,US,F,45,3,5,2,5,5,Elder
+4,4,28/10/2018,IRL,M,39,3,3,4,NA,NA,Middle Aged
+5,1,15/10/2018,US,M,32,5,4,5,5,5,Middle Aged
+6,5,01/05/2018,IRL,F,NA,2,2,1,2,1,Elder
+7,3,21/10/2018,IRL,F,25,3,5,5,5,2,Young
+8,4,28/10/2018,IRL,M,39,3,3,4,NA,NA,Middle Aged
+9,1,15/10/2018,US,M,32,5,4,5,5,5,Middle Aged
+10,2,11/01/2018,US,F,45,3,5,2,5,5,Elder

@@ -1,2 +1,2 @@
-# week3.1
-new repo for week3
+# week3
+week 3 classwork
